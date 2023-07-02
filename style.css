@@ -104,6 +104,7 @@ body{
         padding: 5px 10px;
         margin-right: 10px;
         font-size: 18px;
+        width: 80%;
     }
     .search button{
         width: 40px;
